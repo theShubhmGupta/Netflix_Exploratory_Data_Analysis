@@ -343,7 +343,7 @@ Runs the full analysis from the project root. All 16 charts are saved to `output
 | Python version | 3.10 |
 | Key library versions | See `requirements.txt` |
 | Random seed | `random_state=42` used in pairplot sampling |
-| Dataset | [netflix_business_case.csv](data/raw/netflix_business_case.csv) |
+| Dataset | [`data/raw/netflix_business_case.csv`](data/raw/netflix_business_case.csv) |
 
 
 The pairplot (Plot 16) uses a sample of 500 rows for performance:
