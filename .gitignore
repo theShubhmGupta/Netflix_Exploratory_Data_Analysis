@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Data  
-data/raw/*.csv
-
 # OS files
 .DS_Store
 Thumbs.db
