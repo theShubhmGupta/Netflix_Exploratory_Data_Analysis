@@ -18,7 +18,7 @@ This project analyses Netflix's content catalogue to uncover patterns in content
 
 | Attribute | Detail |
 |---|---|
-| Source | [Netflix Shows Dataset](data/raw/netflix_business_case.csv) |
+| Source | [`data/raw/netflix_business_case.csv`](data/raw/netflix_business_case.csv) |
 | Records | 8,807 titles |
 | Columns | 12 (show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description) |
 | Content Types | 6,131 Movies (70%) + 2,676 TV Shows (30%) |
