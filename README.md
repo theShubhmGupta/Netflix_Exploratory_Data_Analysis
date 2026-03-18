@@ -34,7 +34,7 @@ Netflix's content catalogue has grown to 8,807 titles across 748 country entries
 
 ### Dataset Structure
 
-- **File:** `Netflix_Exploratory_Data_Analysis/data/raw/netflix_business_case.csv`
+- **File:** [`data/raw/netflix_business_case.csv`](data/raw/netflix_business_case.csv)
 - **Shape:** 8,807 rows × 12 columns
 
 | Column | Type | Description |
@@ -204,7 +204,7 @@ Plots were chosen based on variable type and the specific question being answere
 
 ## Notebook Breakdown
 
-### `src/netflix_eda.ipynb`
+### [`src/netflix_eda.ipynb`](src/netflix_eda.ipynb)
 The core analysis notebook. Runs end-to-end — data loading through outlier detection.
 
 **Sections:**
@@ -224,7 +224,7 @@ The core analysis notebook. Runs end-to-end — data loading through outlier det
 
 Intended for non-technical stakeholders or anyone reviewing the project without running the code.
 
-### `src/netflix_recommendations.ipynb`
+### [`src/netflix_recommendations.ipynb`](src/netflix_recommendations.ipynb)
 A standalone notebook containing the 10 business recommendations. Each recommendation includes:
 - Notebook reference (exact plot or section)
 - Data finding
@@ -343,7 +343,7 @@ Runs the full analysis from the project root. All 16 charts are saved to `output
 | Python version | 3.10 |
 | Key library versions | See `requirements.txt` |
 | Random seed | `random_state=42` used in pairplot sampling |
-| Dataset | [netflix_business_case](data/raw/netflix_business_case.csv) |
+| Dataset | [netflix_business_case.csv](data/raw/netflix_business_case.csv) |
 
 
 The pairplot (Plot 16) uses a sample of 500 rows for performance:
