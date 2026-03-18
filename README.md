@@ -14,7 +14,7 @@
 
 Netflix's content catalogue has grown to 8,807 titles across 748 country entries, spanning 96 years of content (1925–2021). This project performs a structured EDA to identify patterns in content type, geography, ratings, and release timing.
 
-> For business context and recommendations, see [`project_overview.md`](project_overview.md) and [`business_reports/netflix_business_report.pdf`](business_reports/netflix_business_report.pdf).
+> For business context and recommendations, see [`project_overview.md`](Netflix_Exploratory_Data_Analysis/project_overview.md) and [`business_reports/netflix_business_report.pdf`](Netflix_Exploratory_Data_Analysis/business_reports/netflix_business_report.pdf).
 
 ---
 
@@ -34,7 +34,7 @@ Netflix's content catalogue has grown to 8,807 titles across 748 country entries
 
 ### Dataset Structure
 
-- **File:** `data/raw/netflix_business_case.csv`
+- **File:** `Netflix_Exploratory_Data_Analysis/data/raw/netflix_business_case.csv`
 - **Shape:** 8,807 rows × 12 columns
 
 | Column | Type | Description |
