@@ -61,7 +61,7 @@ This project analyses Netflix's content catalogue to uncover patterns in content
 | Low | Deploy mature content to acquire; family content to retain |
 | Low | Accelerate acquisition from France, Spain, Mexico, Brazil |
 
-> Full findings and references in [`business_report/netflix_business_report.pdf`](business_report/netflix_business_report.pdf)
+> Full findings and references in [`business_report/netflix_business_report.pdf`](business_report/netflix_business_report.pdf).
 
 ---
 
