@@ -377,7 +377,7 @@ Countplot for discrete values (seasons), histogram + KDE for continuous values (
 
 ## Author
 
-**Shubham Gupta** — Aspiring Data Scientist
+**Shubham Gupta** 
 
 [![GitHub](https://img.shields.io/badge/GitHub-theShubhmGupta-black?logo=github)](https://github.com/theShubhmGupta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theshubhamguptaa-blue?logo=linkedin)](https://linkedin.com/in/theshubhamguptaa)
